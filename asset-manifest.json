@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b0f9a949.css",
-    "main.js": "/static/js/main.a4f98d36.js",
+    "main.js": "/static/js/main.254fee42.js",
     "static/media/swap.png": "/static/media/swap.5659062aeafb3597e0ab.png",
     "static/media/bitcoin-removebg.jpg": "/static/media/bitcoin-removebg.30f77458df8051747975.jpg",
     "static/media/bg6.jpg": "/static/media/bg6.dc603b7416966b84ac68.jpg",
@@ -26,6 +26,6 @@
   },
   "entrypoints": [
     "static/css/main.b0f9a949.css",
-    "static/js/main.a4f98d36.js"
+    "static/js/main.254fee42.js"
   ]
 }
